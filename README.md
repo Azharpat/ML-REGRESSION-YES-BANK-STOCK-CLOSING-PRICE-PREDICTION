@@ -1,5 +1,10 @@
 # ML-REGRESSION-YES-BANK-STOCK-CLOSING-PRICE-PREDICTION
 
+![image](https://github.com/Azharpat/ML-REGRESSION-YES-BANK-STOCK-CLOSING-PRICE-PREDICTION/assets/98094896/9eb8b1c6-1274-4aea-b597-3155af85e429)
+
+
+
+
 # Yes Bank Stock Closing Price Prediction
 
 The Yes Bank Stock Closing Price Prediction project is aimed at forecasting the closing prices of Yes Bank's stock using various techniques and models. This README provides an overview of the project, the problem statement, and how to use the code and data provided.
